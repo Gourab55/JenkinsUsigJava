@@ -9,6 +9,8 @@ class Main{
         System.out.println("line added in 25th feb");
         System.out.println("added a new line to my program ..");
         System.out.println("My self gouraba Jati");
+        int num=45;
+        System.out.println("the number is "+num);
 
     }
   
